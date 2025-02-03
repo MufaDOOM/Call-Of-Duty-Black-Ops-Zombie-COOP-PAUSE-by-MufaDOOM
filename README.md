@@ -9,5 +9,4 @@ Call Of Duty World At War Script : https://github.com/MufaDOOM/Call-Of-Duty-Worl
 Call Of Duty Black Ops 2 Script : https://github.com/MufaDOOM/Call-Of-Duty-Black-Ops-2-Zombie-COOP-PAUSE-by-MufaDOOM
 
 UPDATE 03/02/2025 :
-
-The "bind" command to the console are not now needed , only press aim & melee for pause/unpause
+only hold aim & press melee for pause/unpause

@@ -8,5 +8,5 @@ Call Of Duty World At War Script : https://github.com/MufaDOOM/Call-Of-Duty-Worl
 
 Call Of Duty Black Ops 2 Script : https://github.com/MufaDOOM/Call-Of-Duty-Black-Ops-2-Zombie-COOP-PAUSE-by-MufaDOOM
 
-UPDATE 03/02/2025 :
-only hold aim & press melee for pause/unpause
+UPDATE 17/02/2025 :
+press change stance & melee for pause and unpause , every players can pause and unpause always
